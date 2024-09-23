@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ25185DLHR")(type "KiCad")(uri "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/BQ25185DLHR/2024-08-31_21-46-14.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-WROOM-1-N4")(type "KiCad")(uri "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/ESP32_S3_WROOM_1_N4/ESP32-S3-WROOM-1-N4.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM_42670_P")(type "KiCad")(uri "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/ICM_42670_P/ICM-42670-P.kicad_sym")(options "")(descr ""))
+  (lib (name "1301_9314_24")(type "KiCad")(uri "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/1301_9314_24/2024-09-16_22-50-41.kicad_sym")(options "")(descr ""))
+)
