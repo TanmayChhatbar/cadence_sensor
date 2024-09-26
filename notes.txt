@@ -1,0 +1,2 @@
+KiCAD
+    ACC_INT RTCGPIO3 is input enabled (IE) at reset. this may not be a problem, but to ensure that this is not an issue, it can be moved to GPIO9 (pin 17) 
