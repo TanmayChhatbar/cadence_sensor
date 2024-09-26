@@ -36,7 +36,7 @@ This project involves the development of a compact, low-power sensor unit using 
 
 Below is the image of the PCB design, showcasing the layout of the components for the sensor unit.
 
-![kicad svg](https://github.com/user-attachments/assets/401d53cf-95a8-4a6a-aca1-311d3592edb3)
+![kicad svg](media/kicad.svg.png)
 
 ## Future Improvements
 
