@@ -7,4 +7,4 @@
 KiCAD/orders
 KiCAD/*-backups
 code/2_accel_print_ref_ICM20948/
-kicad_*.lck
+**kicad_*.lck
