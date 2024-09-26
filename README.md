@@ -36,7 +36,7 @@ This project involves the development of a compact, low-power sensor unit using 
 
 Below is the image of the PCB design, showcasing the layout of the components for the sensor unit.
 
-![kicad svg](media/kicad.svg.png)
+![kicad svg](media/cadence-sensor-pcb_image.png)
 
 ## Future Improvements
 
