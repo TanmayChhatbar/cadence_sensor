@@ -14087,7 +14087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JST2:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal_2"
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 			(at 33.02 152.4 0)
 			(effects
 				(font
@@ -14175,7 +14175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JST2:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal_2"
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 			(at 29.21 138.43 0)
 			(effects
 				(font
