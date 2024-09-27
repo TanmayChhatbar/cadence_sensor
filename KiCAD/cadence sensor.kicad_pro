@@ -469,7 +469,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "cadence sensor.step",
+      "step": "../NX/cadence sensor - KiCAD export.step",
       "svg": "",
       "vrml": ""
     },
