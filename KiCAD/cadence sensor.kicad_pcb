@@ -7904,7 +7904,7 @@
 			(pintype "passive")
 			(uuid "233ea5b7-ffce-42f0-b955-518d23a8dc81")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/downloads/JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal_noback.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9091,7 +9091,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "7d029d37-8901-4cf2-930b-b300b088b9d4")
 		)
-		(model "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/USB_type_C_smd.stp"
+		(model "${KIPRJMOD}/downloads/USB_type_C_smd.stp"
 			(offset
 				(xyz 0 2 0)
 			)
@@ -9525,7 +9525,7 @@
 			(pintype "passive")
 			(uuid "36cf5913-2f34-4e14-836a-5ac89275377e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/downloads/JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal_noback.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10564,7 +10564,7 @@
 				)
 			)
 		)
-		(model "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/ESP32-S3-WROOM-1-N4.step"
+		(model "${KIPRJMOD}/downloads/ESP32-S3-WROOM-1-N4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12203,7 +12203,7 @@
 			(zone_connect 2)
 			(uuid "e23dc564-e85b-4fc4-960f-788b8a89c829")
 		)
-		(model "C:/Users/Tanmay/OneDrive - Clemson University/Active/Cadence sensor/downloads/RGR0020A.stp"
+		(model "${KIPRJMOD}/downloads/RGR0020A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
