@@ -1,6 +1,5 @@
 #include "stats.h"
 
-
 // initializations
 stats accStats;
 SPIClass spi;
