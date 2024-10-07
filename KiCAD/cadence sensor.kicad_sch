@@ -7433,6 +7433,17 @@
 		)
 		(uuid "350320dd-fbc6-47c5-ad37-07e91de961d6")
 	)
+	(text "Issues:\nMissing input filter capacitor\nVSS not grounded\n"
+		(exclude_from_sim no)
+		(at 156.972 80.772 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "37d676a0-669a-46db-9e05-f76cf38ec242")
+	)
 	(text "ESD"
 		(exclude_from_sim no)
 		(at 109.22 161.798 0)
