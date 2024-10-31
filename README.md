@@ -1,3 +1,4 @@
+# BREAKING FLAW - The BMW output current is insufficient for the ESP32
 # (WIP) ESP32 Accelerometer-Based Sensor with Wireless Display Integration
 ## Overview
 
